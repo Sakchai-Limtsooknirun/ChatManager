@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="NetWorkProtoCol">
+    <output-path>$PROJECT_DIR$/out/artifacts/NetWorkProtoCol</output-path>
+    <root id="root">
+      <element id="archive" name="NetWorkProtoCol.jar">
+        <element id="module-output" name="NetWorkProtoCol" />
+      </element>
+    </root>
+  </artifact>
+</component>
